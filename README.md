@@ -17,13 +17,13 @@ Instead, it waits for the user to stop typing before making the API request.
 
 ## How to Run
 
-1. Clone the project:
+1. **Clone the project:**
    ```sh
    git clone https://github.com/yourname/yourrepo
-2. Install dependencies:
+2. **Install dependencies:**
     ```sh
    flutter pub get
-3. Run the app:
+3. **Run the app:**
     ```sh
    flutter run
 

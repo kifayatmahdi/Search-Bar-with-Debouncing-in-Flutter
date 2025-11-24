@@ -19,7 +19,7 @@ Instead, it waits for the user to stop typing before making the API request.
 
 1. **Clone the project:**
    ```sh
-   git clone https://github.com/yourname/yourrepo
+   git remote add origin https://github.com/kifayatmahdi/Search-Bar-with-Debouncing-in-Flutter.git
 2. **Install dependencies:**
     ```sh
    flutter pub get
